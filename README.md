@@ -1,14 +1,14 @@
-# Simpsons StyleGAN2 
+# Simpsons StyleGAN2 🚀🚀🚀🚀🌑
 
 Homework#6 to CENFOTEC Course 
 
-## Tech
+## Tech 🖥️
 TensorFlow 2.0
 Stylegan2: https://github.com/NVlabs/stylegan2
 One or more high-end NVIDIA GPUs, NVIDIA drivers, CUDA 10.0 toolkit and cuDNN 7.5. To reproduce the results reported in the paper, you need an NVIDIA GPU with at least 16 GB of DRAM.
-We usead GPU.Land V100 Tesla GPU 0.99$/h 
+We used GPU.Land V100 Tesla GPU 0.99$/h 
 
-## Steps
+## Steps 🛵
 
 1 - Install last Conda version.
 2 - Clone this Repository: https://github.com/zzh8829/yolov3-tf2
@@ -19,7 +19,7 @@ pip install requests==2.22.0
 pip install Pillow==6.2.1
 ```
 
-## Training
+## Training 🔥🔥🔥🔥🔥
 
 1- Get the images from Kaggle and unzip.
 
@@ -48,7 +48,7 @@ nohup python run_training.py --num-gpus=1 --data-dir=/home/ubuntu/stylegan2/data
 
 5- Wait for the results! :D
 
-## Continue the last training.
+## Continue the last training. 🎉 🎉 🎉 🎉 
 
 If you can continue the last training. You can following the next steps:
 
@@ -70,7 +70,7 @@ Why 160.0? - Because we need to convert the kimg value ("000160") to a float, an
 nohup python run_training.py --num-gpus=1 --data-dir=/home/ubuntu/stylegan2/datasets --config=config-f --dataset=custom --mirror-augment=true
 ```
 
-## Images
+## Images 🌮 🌮 🌮 🌮 
 
 Real Image
 ![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/reals.png)
