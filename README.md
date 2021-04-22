@@ -73,19 +73,19 @@ nohup python run_training.py --num-gpus=1 --data-dir=/home/ubuntu/stylegan2/data
 ## Images
 
 Real Image
-![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/reals.jpg)
+![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/reals.png)
 
 Fake Init
-![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fake_init.jpg)
+![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fake_init.png)
 
 First Iteration
-![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fakes000000.jpg)
+![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fakes000000.png)
 
 Third Iteration
-![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fakes000320.jpg)
+![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fakes000320.png)
 
 Fifth Iteration
-![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fakes000640.jpg)
+![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fakes000640.png)
 
 Last Iteration
-![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fakes001440.jpg)
+![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fakes001440.png)
