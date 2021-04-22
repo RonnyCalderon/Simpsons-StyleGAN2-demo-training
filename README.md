@@ -76,7 +76,7 @@ Real Image
 ![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/reals.png)
 
 Fake Init
-![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fake_init.png)
+![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fakes_init.png)
 
 First Iteration
 ![Download file on Roboflow](https://github.com/RonnyCalderon/Simpsons-StyleGAN2-demo-training/blob/main/images/fakes000000.png)
