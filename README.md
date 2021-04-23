@@ -1,6 +1,6 @@
 # Simpsons StyleGAN2 🚀🚀🚀🚀🌑
 
-Homework#6 to CENFOTEC Course 
+Homework#6 
 
 ## Tech 🖥️
 TensorFlow 2.0
